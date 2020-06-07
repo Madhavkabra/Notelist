@@ -99,7 +99,7 @@ h1 {
 }
 
 .alert-success{
-  position: absolute;
+  position: fixed;
   padding: 0;
   margin-bottom: 0px;
   border: 1px solid transparent;
