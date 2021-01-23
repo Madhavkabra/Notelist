@@ -1,4 +1,4 @@
-A simple note list app developed using React, redux, redux-saga.
+A simple note list app developed using React, redux toolkit, redux-saga.
 
 The app can be viewed at:
 https://madhavkabra.github.io/Notelist/
