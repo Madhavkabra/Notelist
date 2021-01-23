@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple note list app developed using React, redux, redux-saga.
+
+The app can be viewed at:
+https://madhavkabra.github.io/Notelist/
 
 ## Available Scripts
 
