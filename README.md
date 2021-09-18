@@ -3,6 +3,13 @@ A simple note list app developed using React, redux toolkit, redux-saga.
 The app can be viewed at:
 https://madhavkabra.github.io/Notelist/
 
+## Libraries used
+
+- @reduxjs/toolkit
+- moment.js
+- prop-types
+- redux, redux-saga
+
 ## Available Scripts
 
 In the project directory, you can run:
